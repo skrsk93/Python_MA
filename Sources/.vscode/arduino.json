@@ -1,0 +1,5 @@
+{
+    "board": "arduino:mbed:nano33ble",
+    "port": "/dev/tty.usbmodem142401",
+    "sketch": "arduino_read_raw.ino"
+}
